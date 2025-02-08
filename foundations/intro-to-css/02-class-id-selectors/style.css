@@ -1,0 +1,18 @@
+.one,
+.three,
+.five{
+    background-color: pink;
+    font-family:'Courier New', Courier, monospace;
+}
+#two{
+    color:blue;
+    font-size: 36px;
+}
+#fontsize{
+    font-size: 34px;
+}
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
